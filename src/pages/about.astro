@@ -4,7 +4,6 @@ import { Content as AboutPage } from '../content/about.md';
 import siteConfig from '../../site.config.mjs';
 
 const profileImage = siteConfig.profileImage;
-const base = import.meta.env.BASE_URL;
 ---
 
 <MainLayout>
@@ -23,7 +22,7 @@ const base = import.meta.env.BASE_URL;
 					<div class="relative">
 						<div class="card-floating overflow-hidden">
 							<img
-								src={`${base}/images/${profileImage}`}
+								src={`/images/${profileImage}`}
 								alt="Imagen de perfil"
 								class="w-full h-full object-cover"
 								loading="lazy"
