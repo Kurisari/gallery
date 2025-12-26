@@ -1,0 +1,1532 @@
+collections:
+  - id: retrato
+    name: Retrato
+  - id: cocina
+    name: Cocina
+  - id: interiores
+    name: Interiores
+  - id: paisaje
+    name: Paisaje
+  - id: flores
+    name: Flores
+  - id: naturaleza
+    name: Naturaleza
+  - id: deportiva
+    name: Deportiva
+images:
+  - path: retrato/IMG_0448-Edit.jpg
+    meta:
+      title: Img 0448 Edit
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-09T18:48:21.000Z
+      fNumber: 4.5
+      focalLength: 110
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0454-Edit.jpg
+    meta:
+      title: Img 0454 Edit
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-09T18:54:38.000Z
+      fNumber: 5
+      focalLength: 135
+      iso: 320
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0465-Edit.jpg
+    meta:
+      title: Img 0465 Edit
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-09T19:00:05.000Z
+      fNumber: 4.5
+      focalLength: 125
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0469.jpg
+    meta:
+      title: Img 0469
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-09T19:02:01.000Z
+      fNumber: 5.6
+      focalLength: 75
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0476.jpg
+    meta:
+      title: Img 0476
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-09T19:11:17.000Z
+      fNumber: 4.5
+      focalLength: 95
+      iso: 3200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 80
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0477.jpg
+    meta:
+      title: Img 0477
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-09T19:11:29.000Z
+      fNumber: 4.5
+      focalLength: 95
+      iso: 3200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 80
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0478.jpg
+    meta:
+      title: Img 0478
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-09T19:12:29.000Z
+      fNumber: 4.5
+      focalLength: 95
+      iso: 3200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 80
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0479.jpg
+    meta:
+      title: Img 0479
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-09T19:12:39.000Z
+      fNumber: 4.5
+      focalLength: 95
+      iso: 3200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 100
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/Copia de IMG_0506.jpg
+    meta:
+      title: Copia De Img 0506
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-10T18:34:37.000Z
+      fNumber: 4.5
+      focalLength: 80
+      iso: 640
+      model: Canon EOS Rebel T7
+      shutterSpeed: 160
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/Copia de IMG_0508.jpg
+    meta:
+      title: Copia De Img 0508
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-10T18:34:55.000Z
+      fNumber: 4.5
+      focalLength: 110
+      iso: 1000
+      model: Canon EOS Rebel T7
+      shutterSpeed: 160
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0127.jpg
+    meta:
+      title: Img 0127
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-11-08T18:14:40.000Z
+      fNumber: 5
+      focalLength: 180
+      iso: 1000
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0130.jpg
+    meta:
+      title: Img 0130
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-11-08T18:15:12.000Z
+      fNumber: 5
+      focalLength: 180
+      iso: 1000
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0155.jpg
+    meta:
+      title: Img 0155
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-11-08T18:30:14.000Z
+      fNumber: 5
+      focalLength: 155
+      iso: 2000
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0171.jpg
+    meta:
+      title: Img 0171
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-11-08T18:38:33.000Z
+      fNumber: 5
+      focalLength: 150
+      iso: 500
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0559.jpg
+    meta:
+      title: Img 0559
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-14T17:27:34.000Z
+      fNumber: 4.5
+      focalLength: 130
+      iso: 500
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0560.jpg
+    meta:
+      title: Img 0560
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-14T17:27:45.000Z
+      fNumber: 4.5
+      focalLength: 130
+      iso: 500
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0562.jpg
+    meta:
+      title: Img 0562
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-14T17:28:40.000Z
+      fNumber: 5
+      focalLength: 150
+      iso: 320
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF75-300mm f/4-5.6
+  - path: retrato/IMG_0563.jpg
+    meta:
+      title: Img 0563
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2025-04-14T17:28:50.000Z
+      fNumber: 5
+      focalLength: 150
+      iso: 320
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF75-300mm f/4-5.6
+  - path: cocina/IMG_2721.jpg
+    meta:
+      title: Img 2721
+      description: ''
+      collections:
+        - cocina
+    exif:
+      captureDate: 2025-08-02T10:31:27.000Z
+      fNumber: 5.6
+      focalLength: 150
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 320
+      lensModel: EF75-300mm f/4-5.6
+  - path: cocina/IMG_2722.jpg
+    meta:
+      title: Img 2722
+      description: ''
+      collections:
+        - cocina
+    exif:
+      captureDate: 2025-08-02T11:46:18.000Z
+      fNumber: 5.6
+      focalLength: 75
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 320
+      lensModel: EF75-300mm f/4-5.6
+  - path: cocina/IMG_2726.jpg
+    meta:
+      title: Img 2726
+      description: ''
+      collections:
+        - cocina
+    exif:
+      captureDate: 2025-08-02T11:47:31.000Z
+      fNumber: 5.6
+      focalLength: 75
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF75-300mm f/4-5.6
+  - path: cocina/IMG_2730.jpg
+    meta:
+      title: Img 2730
+      description: ''
+      collections:
+        - cocina
+    exif:
+      captureDate: 2025-08-02T11:48:15.000Z
+      fNumber: 5.6
+      focalLength: 75
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF75-300mm f/4-5.6
+  - path: cocina/IMG_2764.jpg
+    meta:
+      title: Img 2764
+      description: ''
+      collections:
+        - cocina
+    exif:
+      captureDate: 2025-08-02T13:35:13.000Z
+      fNumber: 5.6
+      focalLength: 75
+      iso: 200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 160
+      lensModel: EF75-300mm f/4-5.6
+  - path: cocina/IMG_2771.jpg
+    meta:
+      title: Img 2771
+      description: ''
+      collections:
+        - cocina
+    exif:
+      captureDate: 2025-08-02T13:35:59.000Z
+      fNumber: 5.6
+      focalLength: 150
+      iso: 200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 125
+      lensModel: EF75-300mm f/4-5.6
+  - path: cocina/IMG_2788.jpg
+    meta:
+      title: Img 2788
+      description: ''
+      collections:
+        - cocina
+    exif:
+      captureDate: 2025-08-02T13:46:47.000Z
+      fNumber: 5.6
+      focalLength: 125
+      iso: 200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 125
+      lensModel: EF75-300mm f/4-5.6
+  - path: cocina/IMG_2794.jpg
+    meta:
+      title: Img 2794
+      description: ''
+      collections:
+        - cocina
+    exif:
+      captureDate: 2025-08-02T13:47:18.000Z
+      fNumber: 5.6
+      focalLength: 135
+      iso: 200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 125
+      lensModel: EF75-300mm f/4-5.6
+  - path: cocina/IMG_2795.jpg
+    meta:
+      title: Img 2795
+      description: ''
+      collections:
+        - cocina
+    exif:
+      captureDate: 2025-08-02T14:01:45.000Z
+      fNumber: 5.6
+      focalLength: 18
+      iso: 200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 125
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: cocina/IMG_2813.jpg
+    meta:
+      title: Img 2813
+      description: ''
+      collections:
+        - cocina
+    exif:
+      captureDate: 2025-08-02T15:58:59.000Z
+      fNumber: 5.6
+      focalLength: 43
+      iso: 200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 50
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: interiores/IMG_3557.jpg
+    meta:
+      title: Img 3557
+      description: ''
+      collections:
+        - interiores
+    exif:
+      captureDate: 2025-09-19T10:27:31.000Z
+      fNumber: 3.5
+      focalLength: 18
+      iso: 160
+      model: Canon EOS Rebel T7
+      shutterSpeed: 30
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: interiores/IMG_3562.jpg
+    meta:
+      title: Img 3562
+      description: ''
+      collections:
+        - interiores
+    exif:
+      captureDate: 2025-09-19T10:28:14.000Z
+      fNumber: 4
+      focalLength: 27
+      iso: 250
+      model: Canon EOS Rebel T7
+      shutterSpeed: 40
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: interiores/IMG_3566.jpg
+    meta:
+      title: Img 3566
+      description: ''
+      collections:
+        - interiores
+    exif:
+      captureDate: 2025-09-19T10:31:12.000Z
+      fNumber: 3.5
+      focalLength: 18
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 30
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: interiores/IMG_3568.jpg
+    meta:
+      title: Img 3568
+      description: ''
+      collections:
+        - interiores
+    exif:
+      captureDate: 2025-09-19T10:31:52.000Z
+      fNumber: 4
+      focalLength: 24
+      iso: 200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 30
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: interiores/IMG_3570.jpg
+    meta:
+      title: Img 3570
+      description: ''
+      collections:
+        - interiores
+    exif:
+      captureDate: 2025-09-19T10:32:21.000Z
+      fNumber: 4.5
+      focalLength: 29
+      iso: 1000
+      model: Canon EOS Rebel T7
+      shutterSpeed: 40
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: interiores/IMG_3573.jpg
+    meta:
+      title: Img 3573
+      description: ''
+      collections:
+        - interiores
+    exif:
+      captureDate: 2025-09-19T10:34:00.000Z
+      fNumber: 3.5
+      focalLength: 18
+      iso: 320
+      model: Canon EOS Rebel T7
+      shutterSpeed: 40
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: interiores/IMG_3577.jpg
+    meta:
+      title: Img 3577
+      description: ''
+      collections:
+        - interiores
+    exif:
+      captureDate: 2025-09-19T10:34:47.000Z
+      fNumber: 3.5
+      focalLength: 18
+      iso: 160
+      model: Canon EOS Rebel T7
+      shutterSpeed: 30
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/DSC_0946-Edit.jpg
+    meta:
+      title: Dsc 0946 Edit
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2015-02-05T11:03:10.000Z
+      fNumber: 10
+      focalLength: 18
+      iso: 200
+      shutterSpeed: 400
+      lensModel: AF-S DX VR Nikkor 18-55mm f/3.5-5.6G II
+  - path: paisaje/DSC_0947-Edit.jpg
+    meta:
+      title: Dsc 0947 Edit
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2015-02-05T11:03:48.000Z
+      fNumber: 10
+      focalLength: 26
+      iso: 200
+      shutterSpeed: 400
+      lensModel: AF-S DX VR Nikkor 18-55mm f/3.5-5.6G II
+  - path: paisaje/IMG_3550.jpg
+    meta:
+      title: Img 3550
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-09-19T10:24:06.000Z
+      fNumber: 7.1
+      focalLength: 21
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 125
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: retrato/DSC_0955.jpg
+    meta:
+      title: Dsc 0955
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2015-02-05T11:26:14.000Z
+      fNumber: 5.6
+      focalLength: 150
+      iso: 200
+      shutterSpeed: 500
+      lensModel: AF-S DX VR Nikkor 55-300mm 4.5-5.6G ED
+  - path: retrato/DSC_0959.jpg
+    meta:
+      title: Dsc 0959
+      description: ''
+      collections:
+        - retrato
+    exif:
+      captureDate: 2015-02-05T11:33:16.000Z
+      fNumber: 8
+      focalLength: 125
+      iso: 200
+      shutterSpeed: 250
+      lensModel: AF-S DX VR Nikkor 55-300mm 4.5-5.6G ED
+  - path: flores/IMG_0593.jpg
+    meta:
+      title: Img 0593
+      description: ''
+      collections:
+        - flores
+    exif:
+      captureDate: 2025-04-23T11:43:42.000Z
+      fNumber: 5
+      focalLength: 170
+      iso: 125
+      model: Canon EOS Rebel T7
+      shutterSpeed: 320
+      lensModel: EF75-300mm f/4-5.6
+  - path: flores/IMG_0713.jpg
+    meta:
+      title: Img 0713
+      description: ''
+      collections:
+        - flores
+    exif:
+      captureDate: 2025-05-01T12:45:27.000Z
+      fNumber: 5.6
+      focalLength: 95
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF75-300mm f/4-5.6
+  - path: flores/IMG_0716.jpg
+    meta:
+      title: Img 0716
+      description: ''
+      collections:
+        - flores
+    exif:
+      captureDate: 2025-05-01T12:46:56.000Z
+      fNumber: 6.3
+      focalLength: 210
+      iso: 160
+      model: Canon EOS Rebel T7
+      shutterSpeed: 400
+      lensModel: EF75-300mm f/4-5.6
+  - path: flores/IMG_0782.jpg
+    meta:
+      title: Img 0782
+      description: ''
+      collections:
+        - flores
+    exif:
+      captureDate: 2025-05-18T13:23:54.000Z
+      fNumber: 8
+      focalLength: 300
+      iso: 640
+      model: Canon EOS Rebel T7
+      shutterSpeed: 640
+      lensModel: EF75-300mm f/4-5.6
+  - path: flores/IMG_0798.jpg
+    meta:
+      title: Img 0798
+      description: ''
+      collections:
+        - flores
+    exif:
+      captureDate: 2025-05-18T13:28:37.000Z
+      fNumber: 6.3
+      focalLength: 220
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 400
+      lensModel: EF75-300mm f/4-5.6
+  - path: flores/IMG_0810.jpg
+    meta:
+      title: Img 0810
+      description: ''
+      collections:
+        - flores
+    exif:
+      captureDate: 2025-05-18T13:32:03.000Z
+      fNumber: 5
+      focalLength: 135
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF75-300mm f/4-5.6
+  - path: flores/IMG_0825.jpg
+    meta:
+      title: Img 0825
+      description: ''
+      collections:
+        - flores
+    exif:
+      captureDate: 2025-05-18T13:35:37.000Z
+      fNumber: 7.1
+      focalLength: 300
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 400
+      lensModel: EF75-300mm f/4-5.6
+  - path: flores/IMG_1319.jpg
+    meta:
+      title: Img 1319
+      description: ''
+      collections:
+        - flores
+    exif:
+      captureDate: 2025-06-12T11:48:34.000Z
+      fNumber: 5.6
+      focalLength: 160
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 400
+      lensModel: EF75-300mm f/4-5.6
+  - path: flores/IMG_1320.jpg
+    meta:
+      title: Img 1320
+      description: ''
+      collections:
+        - flores
+    exif:
+      captureDate: 2025-06-12T11:48:50.000Z
+      fNumber: 5.6
+      focalLength: 160
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 400
+      lensModel: EF75-300mm f/4-5.6
+  - path: flores/IMG_1324.jpg
+    meta:
+      title: Img 1324
+      description: ''
+      collections:
+        - flores
+    exif:
+      captureDate: 2025-06-12T11:49:04.000Z
+      fNumber: 6.3
+      focalLength: 155
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 400
+      lensModel: EF75-300mm f/4-5.6
+  - path: flores/IMG_1355.jpg
+    meta:
+      title: Img 1355
+      description: ''
+      collections:
+        - flores
+    exif:
+      captureDate: 2025-06-18T16:48:18.000Z
+      fNumber: 7.1
+      focalLength: 300
+      iso: 3200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 400
+      lensModel: EF75-300mm f/4-5.6
+  - path: flores/IMG_1467.jpg
+    meta:
+      title: Img 1467
+      description: ''
+      collections:
+        - flores
+    exif:
+      captureDate: 2025-06-28T12:07:38.000Z
+      fNumber: 5
+      focalLength: 155
+      iso: 800
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1000
+      lensModel: EF75-300mm f/4-5.6
+  - path: naturaleza/IMG_1349.jpg
+    meta:
+      title: Img 1349
+      description: ''
+      collections:
+        - naturaleza
+    exif:
+      captureDate: 2025-06-16T10:28:10.000Z
+      fNumber: 5.6
+      focalLength: 75
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF75-300mm f/4-5.6
+  - path: naturaleza/IMG_1351.jpg
+    meta:
+      title: Img 1351
+      description: ''
+      collections:
+        - naturaleza
+    exif:
+      captureDate: 2025-06-16T10:28:18.000Z
+      fNumber: 5
+      focalLength: 85
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF75-300mm f/4-5.6
+  - path: naturaleza/IMG_1375.jpg
+    meta:
+      title: Img 1375
+      description: ''
+      collections:
+        - naturaleza
+    exif:
+      shutterSpeed: .nan
+  - path: naturaleza/IMG_1382.jpg
+    meta:
+      title: Img 1382
+      description: ''
+      collections:
+        - naturaleza
+    exif:
+      captureDate: 2025-06-23T14:07:11.000Z
+      fNumber: 7.1
+      focalLength: 300
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 400
+      lensModel: EF75-300mm f/4-5.6
+  - path: naturaleza/IMG_1551.jpg
+    meta:
+      title: Img 1551
+      description: ''
+      collections:
+        - naturaleza
+    exif:
+      captureDate: 2025-07-04T11:41:28.000Z
+      fNumber: 5.6
+      focalLength: 110
+      iso: 800
+      model: Canon EOS Rebel T7
+      shutterSpeed: 500
+      lensModel: EF75-300mm f/4-5.6
+  - path: naturaleza/IMG_2120.jpg
+    meta:
+      title: Img 2120
+      description: ''
+      collections:
+        - naturaleza
+    exif:
+      captureDate: 2025-07-14T14:51:33.000Z
+      fNumber: 8
+      focalLength: 55
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: naturaleza/IMG_2127.jpg
+    meta:
+      title: Img 2127
+      description: ''
+      collections:
+        - naturaleza
+    exif:
+      captureDate: 2025-07-14T14:51:49.000Z
+      fNumber: 9
+      focalLength: 55
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: naturaleza/IMG_2231.jpg
+    meta:
+      title: Img 2231
+      description: ''
+      collections:
+        - naturaleza
+    exif:
+      captureDate: 2025-07-15T13:41:29.000Z
+      fNumber: 6.3
+      focalLength: 55
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 125
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: naturaleza/IMG_2233.jpg
+    meta:
+      title: Img 2233
+      description: ''
+      collections:
+        - naturaleza
+    exif:
+      captureDate: 2025-07-15T13:41:34.000Z
+      fNumber: 7.1
+      focalLength: 55
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 160
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_1402.jpg
+    meta:
+      title: Img 1402
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-06-25T15:03:30.000Z
+      fNumber: 10
+      focalLength: 34
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_1404.jpg
+    meta:
+      title: Img 1404
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-06-25T15:07:56.000Z
+      fNumber: 8
+      focalLength: 18
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_1408.jpg
+    meta:
+      title: Img 1408
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-06-25T15:13:58.000Z
+      fNumber: 9
+      focalLength: 43
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2013.jpg
+    meta:
+      title: Img 2013
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-14T11:27:54.000Z
+      fNumber: 5.6
+      focalLength: 35
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 500
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2022.jpg
+    meta:
+      title: Img 2022
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-14T11:29:55.000Z
+      fNumber: 10
+      focalLength: 33
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 320
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2038.jpg
+    meta:
+      title: Img 2038
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-14T11:51:48.000Z
+      fNumber: 7.1
+      focalLength: 55
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 125
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2206.jpg
+    meta:
+      title: Img 2206
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-15T12:02:06.000Z
+      fNumber: 5.6
+      focalLength: 36
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 100
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2221.jpg
+    meta:
+      title: Img 2221
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-15T12:05:13.000Z
+      fNumber: 5.6
+      focalLength: 42
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 100
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2223.jpg
+    meta:
+      title: Img 2223
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-15T12:05:24.000Z
+      fNumber: 6.3
+      focalLength: 18
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 100
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2278.jpg
+    meta:
+      title: Img 2278
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-16T15:12:31.000Z
+      fNumber: 11
+      focalLength: 46
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 320
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2296.jpg
+    meta:
+      title: Img 2296
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-16T15:21:40.000Z
+      fNumber: 10
+      focalLength: 27
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2308.jpg
+    meta:
+      title: Img 2308
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-16T15:23:35.000Z
+      fNumber: 10
+      focalLength: 28
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2330.jpg
+    meta:
+      title: Img 2330
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-18T06:43:24.000Z
+      fNumber: 4
+      focalLength: 18
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 40
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2363.jpg
+    meta:
+      title: Img 2363
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-18T09:13:38.000Z
+      fNumber: 8
+      focalLength: 18
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2365.jpg
+    meta:
+      title: Img 2365
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-18T09:14:01.000Z
+      fNumber: 8
+      focalLength: 40
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 160
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2382.jpg
+    meta:
+      title: Img 2382
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-18T12:37:28.000Z
+      fNumber: 10
+      focalLength: 25
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 200
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2395.jpg
+    meta:
+      title: Img 2395
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-18T12:50:45.000Z
+      fNumber: 10
+      focalLength: 18
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2401.jpg
+    meta:
+      title: Img 2401
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-18T12:52:46.000Z
+      fNumber: 10
+      focalLength: 18
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2409.jpg
+    meta:
+      title: Img 2409
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-18T12:57:25.000Z
+      fNumber: 10
+      focalLength: 20
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 250
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2410.jpg
+    meta:
+      title: Img 2410
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-18T12:57:35.000Z
+      fNumber: 10
+      focalLength: 28
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 320
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: paisaje/IMG_2477.jpg
+    meta:
+      title: Img 2477
+      description: ''
+      collections:
+        - paisaje
+    exif:
+      captureDate: 2025-07-19T08:35:13.000Z
+      fNumber: 10
+      focalLength: 34
+      iso: 100
+      model: Canon EOS Rebel T7
+      shutterSpeed: 320
+      lensModel: EF-S18-55mm f/3.5-5.6 IS II
+  - path: deportiva/IMG_1493.jpg
+    meta:
+      title: Img 1493
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-06-28T17:27:44.000Z
+      fNumber: 5.6
+      focalLength: 270
+      iso: 800
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1250
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1531.jpg
+    meta:
+      title: Img 1531
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-06-28T18:26:57.000Z
+      fNumber: 5
+      focalLength: 190
+      iso: 3200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1250
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1582.jpg
+    meta:
+      title: Img 1582
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-05T17:40:51.000Z
+      fNumber: 5.6
+      focalLength: 260
+      iso: 800
+      model: Canon EOS Rebel T7
+      shutterSpeed: 2000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1619.jpg
+    meta:
+      title: Img 1619
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-06T10:25:48.000Z
+      fNumber: 5.6
+      focalLength: 280
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 2000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1629.jpg
+    meta:
+      title: Img 1629
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-06T10:51:17.000Z
+      fNumber: 5.6
+      focalLength: 220
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 2000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1638.jpg
+    meta:
+      title: Img 1638
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-06T11:17:30.000Z
+      fNumber: 5.6
+      focalLength: 255
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 2000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1698.jpg
+    meta:
+      title: Img 1698
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-06T16:36:23.000Z
+      fNumber: 5.6
+      focalLength: 75
+      iso: 800
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1250
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1720.jpg
+    meta:
+      title: Img 1720
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-06T16:45:59.000Z
+      fNumber: 5.6
+      focalLength: 150
+      iso: 800
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1250
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1733.jpg
+    meta:
+      title: Img 1733
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-06T16:47:49.000Z
+      fNumber: 5.6
+      focalLength: 135
+      iso: 800
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1740.jpg
+    meta:
+      title: Img 1740
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-06T16:49:12.000Z
+      fNumber: 5.6
+      focalLength: 100
+      iso: 800
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1872.jpg
+    meta:
+      title: Img 1872
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-10T17:07:33.000Z
+      fNumber: 5.6
+      focalLength: 230
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 2000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1874.jpg
+    meta:
+      title: Img 1874
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-10T17:07:41.000Z
+      fNumber: 5.6
+      focalLength: 190
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 2000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1887.jpg
+    meta:
+      title: Img 1887
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-10T17:11:10.000Z
+      fNumber: 5.6
+      focalLength: 220
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 2000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1892.jpg
+    meta:
+      title: Img 1892
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-10T17:13:24.000Z
+      fNumber: 5.6
+      focalLength: 260
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 2000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_1939.jpg
+    meta:
+      title: Img 1939
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-10T17:31:06.000Z
+      fNumber: 5.6
+      focalLength: 300
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 2000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_2576.jpg
+    meta:
+      title: Img 2576
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-25T17:37:46.000Z
+      fNumber: 5.6
+      focalLength: 290
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1250
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_2623.jpg
+    meta:
+      title: Img 2623
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-25T18:11:52.000Z
+      fNumber: 5.6
+      focalLength: 290
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_2624.jpg
+    meta:
+      title: Img 2624
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-25T18:12:00.000Z
+      fNumber: 5.6
+      focalLength: 290
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 800
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_2644.jpg
+    meta:
+      title: Img 2644
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-25T18:15:28.000Z
+      fNumber: 5.6
+      focalLength: 220
+      iso: 400
+      model: Canon EOS Rebel T7
+      shutterSpeed: 800
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_2651.jpg
+    meta:
+      title: Img 2651
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-25T18:18:58.000Z
+      fNumber: 5.6
+      focalLength: 150
+      iso: 800
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_2667.jpg
+    meta:
+      title: Img 2667
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-07-25T18:21:50.000Z
+      fNumber: 5.6
+      focalLength: 170
+      iso: 800
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_4027.jpg
+    meta:
+      title: Img 4027
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-12-12T17:46:03.000Z
+      fNumber: 5.6
+      focalLength: 250
+      iso: 3200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 800
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_4028.jpg
+    meta:
+      title: Img 4028
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-12-12T17:46:06.000Z
+      fNumber: 5.6
+      focalLength: 270
+      iso: 3200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 800
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_4036.jpg
+    meta:
+      title: Img 4036
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-12-12T17:50:21.000Z
+      fNumber: 5.6
+      focalLength: 150
+      iso: 3200
+      model: Canon EOS Rebel T7
+      shutterSpeed: 800
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_4145.jpg
+    meta:
+      title: Img 4145
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-12-19T17:33:18.000Z
+      fNumber: 5.6
+      focalLength: 300
+      iso: 1000
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_4150.jpg
+    meta:
+      title: Img 4150
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-12-19T17:34:31.000Z
+      fNumber: 5.6
+      focalLength: 190
+      iso: 640
+      model: Canon EOS Rebel T7
+      shutterSpeed: 1000
+      lensModel: EF75-300mm f/4-5.6
+  - path: deportiva/IMG_4196.jpg
+    meta:
+      title: Img 4196
+      description: ''
+      collections:
+        - deportiva
+    exif:
+      captureDate: 2025-12-19T17:49:17.000Z
+      fNumber: 5.6
+      focalLength: 100
+      iso: 800
+      model: Canon EOS Rebel T7
+      shutterSpeed: 500
+      lensModel: EF75-300mm f/4-5.6
