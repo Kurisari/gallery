@@ -1,6 +1,6 @@
 ---
-import 'glightbox/dist/css/glightbox.css';
-import '../styles/glightbox-custom.css';
+import 'photoswipe/dist/photoswipe.css';
+import '../styles/photoswipe-custom.css';
 import { Image } from 'astro:assets';
 import type { Image as ImageType } from '../data/galleryData';
 
@@ -16,12 +16,10 @@ const { images } = Astro.props;
 		images.map((image) => (
 			<a
 				href={image.src.src}
-				class="photo-item glightbox absolute transition-transform hover:scale-[1.02] hover:z-10"
-				data-gallery="gallery1"
-				data-type="image"
-				data-width={image.src.width}
-				data-height={image.src.height}
-				data-glightbox={image.description ? `title: ${image.description}` : undefined}
+				data-pswp-width={image.src.width}
+				data-pswp-height={image.src.height}
+				data-pswp-caption={image.description}
+				class="photo-item absolute transition-transform hover:scale-[1.02] hover:z-10"
 			>
 				<Image
 					src={image.src}

@@ -1,5 +1,5 @@
 import justifiedLayout from 'justified-layout';
-import GLightbox from 'glightbox';
+import PhotoSwipeLightbox from 'photoswipe/lightbox';
 
 interface JustifiedLayoutResult {
 	/**
@@ -72,15 +72,15 @@ export async function setupGallery() {
 	applyImagesStyleBasedOnLayout(imageLinks, layout);
 	applyContainerStyleBasedOnLayout(container, layout);
 
-	// Initialize GLightbox
-	GLightbox({
-		selector: '.glightbox',
-		openEffect: 'fade',
-		closeEffect: 'fade',
-		width: 'auto',
-		height: 'auto',
-		zoomable: true,
+	// Initialize PhotoSwipe
+	const lightbox = new PhotoSwipeLightbox({
+		gallery: '#photo-grid',
+		children: 'a',
+		pswpModule: () => import('photoswipe'),
+		wheelToZoom: true,
+		zoom: true,
 	});
+	lightbox.init();
 }
 
 function createLayoutFor(
