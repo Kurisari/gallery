@@ -5,10 +5,16 @@ import { featuredCollectionId, getImages } from '../data/imageStore';
 const images = await getImages({ collection: featuredCollectionId });
 ---
 
-<div class="max-w-2xl mx-auto text-center mb-16">
-	<h2 class="text-3xl md:text-4xl font-bold mb-4">Trabajos destacados</h2>
-	<p class="text-gray-600">Una selección de mis mejores fotografías de diversas aventuras</p>
-</div>
-<div class="p-4">
-	<PhotoGrid images={images} />
+<div class="container-custom">
+	<div class="max-w-3xl mx-auto text-center mb-12">
+		<span class="badge-soft">Selección curada</span>
+		<h2 class="text-4xl md:text-5xl font-semibold mt-4 title-gradient">Trabajos destacados</h2>
+		<p class="text-lg text-[hsl(215,18%,32%)] mt-4">
+			Luz suave, tonos cálidos y composiciones limpias. Una muestra de proyectos personales y editoriales recientes.
+		</p>
+	</div>
+
+	<div class="section-shell p-4 md:p-6">
+		<PhotoGrid images={images} />
+	</div>
 </div>

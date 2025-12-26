@@ -57,20 +57,6 @@ images:
       model: Canon EOS Rebel T7
       shutterSpeed: 200
       lensModel: EF75-300mm f/4-5.6
-  - path: retrato/IMG_0469.jpg
-    meta:
-      title: Img 0469
-      description: ''
-      collections:
-        - retrato
-    exif:
-      captureDate: 2025-04-09T19:02:01.000Z
-      fNumber: 5.6
-      focalLength: 75
-      iso: 100
-      model: Canon EOS Rebel T7
-      shutterSpeed: 200
-      lensModel: EF75-300mm f/4-5.6
   - path: retrato/IMG_0476.jpg
     meta:
       title: Img 0476

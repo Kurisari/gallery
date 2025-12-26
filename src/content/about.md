@@ -1,14 +1,9 @@
 ---
-title: About me
+title: Sobre mí
 ---
 
-### Hi, I'm Sara Richard 👋
+### Hola, soy Cristian Aragón Salazar 👋
 
-I've been a photographer for over 10 years, focusing primarily on landscape and portrait photography. My journey began
-with a simple point-and-shoot camera while traveling through the mountains of Colorado, which sparked a passion that has
-taken me across the globe.
-My approach to photography centers on finding the extraordinary in ordinary moments. I believe that beauty exists
-everywhere – in urban streets, remote wilderness, and human connections. My goal is to capture these fleeting instances
-in a way that allows viewers to see the world through a different lens.
-When I'm not behind the camera, you can find me hiking in national parks, exploring new cities, or enjoying a cup of
-coffee at local cafés while planning my next photo adventure.
+Ingeniero en inteligencia artificial de día, fotógrafo por hobby siempre con la cámara a mano en paseos de fin de semana, viajes cortos y ratos libres. Me atraen la luz natural, los tonos cálidos y las escenas cotidianas que se vuelven recuerdo.
+
+Busco narrativas simples: retratos cercanos, paisajes tranquilos y detalles que casi pasan desapercibidos. No es un trabajo de estudio ni grandes producciones, es un espacio personal para experimentar y compartir lo que me inspira.

@@ -22,34 +22,39 @@ export const getStaticPaths = async () => {
 ---
 
 <MainLayout>
-	<section class="py-16 pt-24">
+	<section class="py-20 pt-28">
 		<div class="container-custom">
-			<div class="mb-16 text-center">
-				<h1 class="text-4xl md:text-5xl font-bold mb-4">Galería</h1>
-				<p class="text-gray-600 max-w-xl mx-auto">Explora mi colección de trabajos fotográficos</p>
-			</div>
-
-			<div class="flex justify-center mb-10">
-				<div class="flex flex-wrap gap-2 justify-center">
-					{
-						collections.map((collectionBtn) => (
-							<a href={`${base}/collections/${collectionBtn.id ? collectionBtn.id : ''}`}>
-								<div
-									class={`px-4 py-2 border ${
-										collectionBtn.id === collection
-											? 'border-black bg-black text-white'
-											: 'border-gray-200 text-gray-700 hover:border-gray-300'
-									} transition-all`}
-								>
-									{collectionBtn.name}
-								</div>
-							</a>
-						))
-					}
+			<div class="section-shell p-8 md:p-10">
+				<div class="mb-10 text-center space-y-4">
+					<span class="badge-soft">Colecciones</span>
+					<h1 class="text-4xl md:text-5xl font-semibold title-gradient">Galería</h1>
+					<p class="text-lg text-[hsl(215,18%,32%)] max-w-2xl mx-auto">
+						Explora series fotográficas seleccionadas: retratos intimistas, paisajes cálidos y escenas editoriales con foco en la luz.
+					</p>
 				</div>
-			</div>
 
-			<PhotoGrid images={images} />
+				<div class="flex justify-center mb-8">
+					<div class="flex flex-wrap gap-2 justify-center">
+						{
+							collections.map((collectionBtn) => (
+								<a href={`${base}/collections/${collectionBtn.id ? collectionBtn.id : ''}`}>
+									<div
+										class={`button-ghost ${
+											collectionBtn.id === collection
+												? 'border-[hsla(31,66%,60%,0.35)] bg-[hsla(31,66%,60%,0.12)] text-[hsl(220,33%,12%)]'
+												: ''
+										}`}
+									>
+										{collectionBtn.name}
+									</div>
+								</a>
+							))
+						}
+					</div>
+				</div>
+
+				<PhotoGrid images={images} />
+			</div>
 		</div>
 	</section>
 </MainLayout>

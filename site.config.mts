@@ -24,8 +24,8 @@ export default {
 		'méxico',
 	],
 	siteUrl: 'https://gallery.kurisari.dev/',
-	ogImage: 'images/profile.webp',
-	profileImage: 'profile.webp',
+	ogImage: 'images/profile.jpg',
+	profileImage: 'profile.jpg',
 	socialLinks: [
 		{
 			name: 'GitHub',

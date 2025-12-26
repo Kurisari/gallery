@@ -3,22 +3,40 @@ import siteConfig from '../../site.config.mjs';
 
 const owner = siteConfig.owner;
 const base = import.meta.env.BASE_URL;
+const profileImage = siteConfig.profileImage;
 ---
 
-<div class="absolute left-0 right-0 z-0">
-	<div class="text-center mb-12 relative z-10">
-		<h1 class="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">
-			Fotografía de {owner}
-		</h1>
-		<p class="mt-4 text-base md:text-lg text-gray-700">Un espacio para mostrar mi fotografía</p>
-		<a
-			href=`${base}/collections`
-			class="mt-8 inline-block px-6 py-3 border-2 border-black rounded-md
-                      hover:bg-black hover:text-white transition-all duration-300
-                      text-sm md:text-base font-medium
-                      transform hover:scale-105 active:scale-95"
-		>
-			Ver galería
-		</a>
+<section class="relative w-full overflow-hidden">
+	<div class="absolute inset-0 pointer-events-none">
+		<div class="absolute -left-24 -top-24 h-64 w-64 rounded-full bg-[hsla(31,66%,60%,0.26)] blur-3xl"></div>
+		<div class="absolute right-[-14%] top-6 h-72 w-72 rounded-full bg-[hsla(220,33%,12%,0.18)] blur-3xl"></div>
 	</div>
-</div>
+
+	<div class="container-custom grid grid-cols-1 lg:grid-cols-[1.1fr_0.9fr] items-center gap-10 relative z-10 py-10">
+		<div class="space-y-6 max-w-2xl">
+			<span class="badge-soft">Fotografía como hobby</span>
+			<h1 class="text-4xl md:text-5xl font-semibold leading-[1.08] title-gradient">
+				Capturo momentos que me inspiran
+			</h1>
+			<p class="text-lg text-[hsl(215,18%,32%)]">
+				Luz natural, paseos de fin de semana y escenas cotidianas que se vuelven recuerdos. Este es mi espacio personal para experimentar y compartir lo que veo.
+			</p>
+			<div class="flex flex-wrap items-center gap-3 md:gap-4">
+				<a href={`${base}/collections`} class="button-primary">Ver fotos</a>
+				<a href={`${base}/about`} class="button-ghost">Saber más</a>
+			</div>
+		</div>
+
+		<div class="relative max-w-xl w-full mx-auto">
+			<div class="card-floating overflow-hidden">
+				<img
+					src={`${base}/images/${profileImage}`}
+					alt={`Retrato de ${owner}`}
+					class="w-full h-full object-cover"
+					loading="lazy"
+				/>
+			</div>
+			<div class="absolute -left-6 -bottom-6 h-24 w-24 rounded-full bg-[hsla(31,66%,60%,0.16)] blur-3xl" aria-hidden="true"></div>
+		</div>
+	</div>
+</section>

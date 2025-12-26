@@ -7,17 +7,18 @@ const owner = siteConfig.owner;
 const socialLinks = siteConfig.socialLinks;
 ---
 
-<footer class="py-10 border-t border-gray-100 mt-auto">
-	<div class="container mx-auto">
-		<div class="flex flex-col md:flex-row justify-between items-center">
-			<div class="text-sm font-sans text-gray-500 mb-4 md:mb-0">
-				© {year}
-				{owner}. Todos los derechos reservados.
-			</div>
+<footer class="mt-auto border-t border-[hsla(220,33%,12%,0.08)] bg-white/70 backdrop-blur-lg">
+	<div class="container-custom py-10 flex flex-col md:flex-row items-center md:items-start justify-between gap-6">
+		<div class="flex flex-col gap-2 text-center md:text-left">
+			<p class="text-sm uppercase tracking-[0.12em] text-[hsla(220,33%,12%,0.55)]">Cristian Aragón Salazar</p>
+			<p class="text-base text-[hsl(220,33%,12%)] font-semibold">Fotografía con mirada editorial</p>
+			<p class="text-sm text-[hsla(220,33%,12%,0.65)]">
+				© {year} {owner}. Todos los derechos reservados.
+			</p>
+		</div>
 
-			<div class="flex space-x-6">
-				{socialLinks.map((socialLink) => <SocialIcon socialLink={socialLink} />)}
-			</div>
+		<div class="flex items-center gap-4">
+			{socialLinks.map((socialLink) => <SocialIcon socialLink={socialLink} />)}
 		</div>
 	</div>
 </footer>
