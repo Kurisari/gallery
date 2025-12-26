@@ -6,9 +6,9 @@ export default defineConfig({
 	site: 'https://gallery.kurisari.dev',
 	base: '/',
 	image: {
-		// Use Squoosh (WASM) to avoid native Sharp install in serverless builds
+		// Use passthrough to avoid native dependencies in serverless builds
 		service: {
-			entrypoint: 'astro/assets/services/squoosh',
+			entrypoint: 'astro/assets/services/passthrough',
 		},
 	},
 	vite: {
