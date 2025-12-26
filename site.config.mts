@@ -15,12 +15,12 @@ export default {
 	socialLinks: [
 		{
 			name: 'GitHub',
-			url: 'https://github.com/rockem/gallery',
+			url: 'https://github.com/Kurisari',
 			icon: Github,
 		} as SocialLink,
 		{
 			name: 'Instagram',
-			url: 'https://www.instagram.com/cristianaragon',
+			url: 'https://www.instagram.com/kurisari28',
 			icon: Instagram,
 		} as SocialLink,
 	],
