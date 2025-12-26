@@ -1,6 +1,7 @@
 .glightbox-container .gslide-image img {
-	max-width: 95%;
-	max-height: 95%;
+	/* Fit image within viewport, prioritizing full height visibility */
+	max-height: calc(100vh - 64px);
+	max-width: calc(100vw - 64px);
 	height: auto;
 	width: auto;
 	object-fit: contain;

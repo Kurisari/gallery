@@ -74,12 +74,14 @@ export interface ImageExif {
  * @property {string} alt - Alt text for accessibility
  * @property {string} description - Detailed description of the image
  * @property {string[]} collections - Array of collection IDs the image belongs to
+ * @property {string} path - Relative path to the image file
  */
 export interface Image {
 	src: ImageMetadata;
 	title: string;
 	description: string;
 	collections: string[];
+	path: string;
 }
 
 /**

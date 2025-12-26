@@ -75,10 +75,11 @@ export async function setupGallery() {
 	// Initialize GLightbox
 	GLightbox({
 		selector: '.glightbox',
-		openEffect: 'zoom',
+		openEffect: 'fade',
 		closeEffect: 'fade',
 		width: 'auto',
 		height: 'auto',
+		zoomable: true,
 	});
 }
 
