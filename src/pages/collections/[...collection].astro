@@ -2,6 +2,7 @@
 import MainLayout from '../../layouts/MainLayout.astro';
 import PhotoGrid from '../../components/PhotoGrid.astro';
 import { getCollections, getImages } from '../../data/imageStore';
+import siteConfig from '../../../site.config.mjs';
 
 const allCollection = {
 	id: undefined,
@@ -10,6 +11,10 @@ const allCollection = {
 const collections = [allCollection, ...(await getCollections())];
 const { collection } = Astro.params;
 const images = await getImages(collection ? { collection } : {});
+
+const currentCollection = collections.find(c => c.id === collection);
+const pageTitle = currentCollection ? `${currentCollection.name} - ${siteConfig.title}` : `Galería - ${siteConfig.title}`;
+const pageDescription = currentCollection ? `Explora la colección ${currentCollection.name} de ${siteConfig.owner}. ${siteConfig.description}` : siteConfig.description;
 
 export const getStaticPaths = async () => {
 	return [{ id: undefined }, ...(await getCollections())].map((collection) => {
@@ -20,7 +25,33 @@ export const getStaticPaths = async () => {
 };
 ---
 
-<MainLayout>
+<MainLayout title={pageTitle} description={pageDescription}>
+	{currentCollection && currentCollection.id && (
+		<script type="application/ld+json" set:html={JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Inicio",
+					"item": siteConfig.siteUrl
+				},
+				{
+					"@type": "ListItem",
+					"position": 2,
+					"name": "Galería",
+					"item": `${siteConfig.siteUrl}collections/`
+				},
+				{
+					"@type": "ListItem",
+					"position": 3,
+					"name": currentCollection.name,
+					"item": `${siteConfig.siteUrl}collections/${currentCollection.id}`
+				}
+			]
+		})} />
+	)}
 	<section class="py-20 pt-28">
 		<div class="container-custom">
 			<div class="section-shell p-8 md:p-10">
