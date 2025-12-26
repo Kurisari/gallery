@@ -1,7 +1,7 @@
 {
-	"name": "astro-photography-portfolio",
+	"name": "gallery-kurisari-portfolio",
 	"type": "module",
-	"version": "0.0.1",
+	"version": "1.0.1",
 	"scripts": {
 		"dev": "astro dev",
 		"build": "astro build",
@@ -40,6 +40,7 @@
 		"vitest": "^3.1.1"
 	},
 	"dependencies": {
+		"@astrojs/sitemap": "^3.6.0",
 		"photoswipe": "^5.4.4",
 		"sharp": "^0.34.5"
 	}
