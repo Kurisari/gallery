@@ -5,8 +5,31 @@ import Footer from '../components/Footer.astro';
 import NavBar from '../components/NavBar.astro';
 
 const owner = siteConfig.owner;
+const title = siteConfig.title || owner;
+const description = siteConfig.description || 'Portafolio fotográfico de Cristian Aragón Salazar.';
+const keywords = Array.isArray(siteConfig.keywords) ? siteConfig.keywords.join(', ') : siteConfig.keywords;
 const favicon = siteConfig.favicon;
 const base = import.meta.env.BASE_URL;
+const siteUrl = siteConfig.siteUrl || import.meta.env.SITE;
+const ogImage = siteConfig.ogImage || siteConfig.profileImage;
+
+const normalizedBase = base.endsWith('/') ? base.slice(0, -1) : base;
+const normalizedImg = ogImage?.startsWith('/') ? ogImage : `/${ogImage}`;
+const imageUrl = siteUrl
+	? new URL(normalizedImg, siteUrl).toString()
+	: `${normalizedBase}${normalizedImg}`;
+const canonical = siteUrl ? new URL(Astro.url.pathname, siteUrl).toString() : undefined;
+const sameAs = siteConfig.socialLinks?.map((link) => link.url).filter(Boolean) || [];
+const ldJson = {
+	'@context': 'https://schema.org',
+	'@type': 'Person',
+	name: owner,
+	jobTitle: 'Fotógrafo',
+	url: canonical || siteUrl || normalizedBase || '/',
+	image: imageUrl,
+	sameAs,
+	description,
+};
 ---
 
 <html lang="es" class="h-full">
@@ -23,7 +46,23 @@ const base = import.meta.env.BASE_URL;
 
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{owner}</title>
+		<title>{title}</title>
+		<meta name="description" content={description} />
+		{keywords && <meta name="keywords" content={keywords} />}
+		<meta name="author" content={owner} />
+		{canonical && <link rel="canonical" href={canonical} />}
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:image" content={imageUrl} />
+		{canonical && <meta property="og:url" content={canonical} />}
+		<meta property="og:locale" content="es_ES" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content={title} />
+		<meta name="twitter:description" content={description} />
+		<meta name="twitter:image" content={imageUrl} />
+		<meta name="theme-color" content="#000000" />
+		<script type="application/ld+json">{JSON.stringify(ldJson)}</script>
 	</head>
 	<body>
 		<NavBar />

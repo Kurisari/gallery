@@ -8,9 +8,23 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'CA',
+	title: 'Cristian Aragón Salazar',
 	favicon: 'favicon.ico',
-	owner: 'Cristian Aragon Salazar',
+	owner: 'Cristian Aragón Salazar',
+	description:
+		'Portafolio fotográfico de Cristian Aragón Salazar con retratos, paisajes y proyectos editoriales.',
+	keywords: [
+		'Cristian Aragón Salazar',
+		'fotógrafo',
+		'fotografía profesional',
+		'portafolio de fotografía',
+		'retratos',
+		'paisajes',
+		'fotografía editorial',
+		'méxico',
+	],
+	siteUrl: 'https://gallery.kurisari.dev/',
+	ogImage: 'images/profile.webp',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
