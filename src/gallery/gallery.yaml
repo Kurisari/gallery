@@ -20,6 +20,7 @@ images:
       description: ''
       collections:
         - retrato
+        - featured
     exif:
       captureDate: 2025-04-09T18:48:21.000Z
       fNumber: 4.5
@@ -104,6 +105,7 @@ images:
       description: ''
       collections:
         - retrato
+        - featured
     exif:
       captureDate: 2025-04-09T19:12:29.000Z
       fNumber: 4.5
@@ -174,6 +176,7 @@ images:
       description: ''
       collections:
         - retrato
+        - featured
     exif:
       captureDate: 2025-11-08T18:15:12.000Z
       fNumber: 5
@@ -202,6 +205,7 @@ images:
       description: ''
       collections:
         - retrato
+        - featured
     exif:
       captureDate: 2025-11-08T18:38:33.000Z
       fNumber: 5
@@ -216,6 +220,7 @@ images:
       description: ''
       collections:
         - retrato
+        - featured
     exif:
       captureDate: 2025-04-14T17:27:34.000Z
       fNumber: 4.5
@@ -286,6 +291,7 @@ images:
       description: ''
       collections:
         - cocina
+        - featured
     exif:
       captureDate: 2025-08-02T11:46:18.000Z
       fNumber: 5.6
@@ -314,6 +320,7 @@ images:
       description: ''
       collections:
         - cocina
+        - featured
     exif:
       captureDate: 2025-08-02T11:48:15.000Z
       fNumber: 5.6
@@ -426,6 +433,7 @@ images:
       description: ''
       collections:
         - interiores
+        - featured
     exif:
       captureDate: 2025-09-19T10:28:14.000Z
       fNumber: 4
@@ -523,6 +531,7 @@ images:
       description: ''
       collections:
         - paisaje
+        - featured
     exif:
       captureDate: 2015-02-05T11:03:48.000Z
       fNumber: 10
@@ -536,6 +545,7 @@ images:
       description: ''
       collections:
         - paisaje
+        - featured
     exif:
       captureDate: 2025-09-19T10:24:06.000Z
       fNumber: 7.1
@@ -550,6 +560,7 @@ images:
       description: ''
       collections:
         - retrato
+        - featured
     exif:
       captureDate: 2015-02-05T11:26:14.000Z
       fNumber: 5.6
@@ -632,6 +643,7 @@ images:
       description: ''
       collections:
         - flores
+        - featured
     exif:
       captureDate: 2025-05-18T13:28:37.000Z
       fNumber: 6.3
@@ -660,6 +672,7 @@ images:
       description: ''
       collections:
         - flores
+        - featured
     exif:
       captureDate: 2025-05-18T13:35:37.000Z
       fNumber: 7.1
@@ -772,6 +785,7 @@ images:
       description: ''
       collections:
         - naturaleza
+        - featured
     exif:
       shutterSpeed: .nan
   - path: naturaleza/IMG_1382.jpg
@@ -864,6 +878,7 @@ images:
       description: ''
       collections:
         - paisaje
+        - featured
     exif:
       captureDate: 2025-06-25T15:03:30.000Z
       fNumber: 10
@@ -1004,6 +1019,7 @@ images:
       description: ''
       collections:
         - paisaje
+        - featured
     exif:
       captureDate: 2025-07-16T15:21:40.000Z
       fNumber: 10
@@ -1102,6 +1118,7 @@ images:
       description: ''
       collections:
         - paisaje
+        - featured
     exif:
       captureDate: 2025-07-18T12:52:46.000Z
       fNumber: 10
@@ -1144,6 +1161,7 @@ images:
       description: ''
       collections:
         - paisaje
+        - featured
     exif:
       captureDate: 2025-07-19T08:35:13.000Z
       fNumber: 10
@@ -1228,6 +1246,7 @@ images:
       description: ''
       collections:
         - deportiva
+        - featured
     exif:
       captureDate: 2025-07-06T11:17:30.000Z
       fNumber: 5.6
@@ -1270,6 +1289,7 @@ images:
       description: ''
       collections:
         - deportiva
+        - featured
     exif:
       captureDate: 2025-07-06T16:47:49.000Z
       fNumber: 5.6
