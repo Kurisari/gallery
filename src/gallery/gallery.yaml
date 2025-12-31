@@ -1536,3 +1536,17 @@ images:
       model: Canon EOS Rebel T7
       shutterSpeed: 500
       lensModel: EF75-300mm f/4-5.6
+  - path: flores/IMG_2026.jpg
+    meta:
+      title: Img 2026
+      description: ''
+      collections:
+        - flores
+    exif: {}
+  - path: flores/IMG_2027.jpg
+    meta:
+      title: Img 2027
+      description: ''
+      collections:
+        - flores
+    exif: {}
